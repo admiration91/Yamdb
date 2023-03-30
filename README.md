@@ -1,5 +1,6 @@
 [![.github/workflows/yamdb_workflow.yml](https://github.com/admiration91/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/admiration91/yamdb_final/actions/workflows/yamdb_workflow.yml)
 # REST API для YaMDb
+# IP рабочего сервера - ip 130.193.39.32
 
 ## Описание
 Проект YaMDb собирает **отзывы** пользователей на **произведения**. Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
